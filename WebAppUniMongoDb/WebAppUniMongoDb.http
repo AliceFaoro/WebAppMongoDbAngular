@@ -1,0 +1,6 @@
+@WebAppUniMongoDb_HostAddress = http://localhost:5014
+
+GET {{WebAppUniMongoDb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
